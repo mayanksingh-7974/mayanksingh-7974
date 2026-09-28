@@ -80,6 +80,7 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 </td>
 </tr>
 </table>
+
 # 📊 GitHub Stats
 
 <p align="center">
