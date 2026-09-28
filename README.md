@@ -80,10 +80,16 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 </td>
 </tr>
 </table>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mayanksingh-7974&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mayanksingh-7974&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayanksingh-7974&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=mayanksingh-7974&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mayanksingh-7974&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mayanksingh-7974&theme=dark&hide_border=false" height="180"/>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mayanksingh-7974&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
