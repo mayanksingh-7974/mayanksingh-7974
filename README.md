@@ -4,13 +4,21 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-singh-60756333a)
+<a href="https://linkedin.com/in/mayank-singh-60756333a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 &nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@MayankS10420012)
+<a href="https://x.com/@MayankS10420012" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 &nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/singhmani7011/)
+<a href="https://www.instagram.com/singhmani7011/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhmani40922@gmail.com)
+<a href="mailto:singhmani40922@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 # 💻 Tech Stack
 
