@@ -99,15 +99,22 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 # 🔀 Pull Requests & Open Source
 
 <p align="left">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Amayanksingh-7974+is%3Amerged" target="_blank">
-    <img src="https://img.shields.io/badge/Merged_PRs-10+_Merged-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
+  <a href="https://github.com/search?q=is%3Apr+author%3Amayanksingh-7974+is%3Amerged&type=pullrequests" target="_blank">
+    <img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3Amayanksingh-7974%20is%3Amerged&label=Merged%20PRs&style=for-the-badge&logo=github&logoColor=white&color=8957e5" alt="Merged PRs Count" />
   </a>
 </p>
 
+<!-- PRS:START -->
 | Repository | Pull Request | Status |
 | :--- | :--- | :--- |
-| **owner/repo-name-1** | [Fix: Resolved authentication bug (#12)](https://github.com/owner/repo-name-1/pull/12) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
-| **owner/repo-name-2** | [Feat: Added responsive navbar (#45)](https://github.com/owner/repo-name-2/pull/45) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| [**foss42/apidash**](https://github.com/foss42/apidash) | [View Merged PRs by mayanksingh-7974](https://github.com/search?q=is%3Apr+author%3Amayanksingh-7974+is%3Amerged&type=pullrequests) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+<!-- PRS:END -->
+
+<p align="left">
+  <a href="https://github.com/search?q=is%3Apr+author%3Amayanksingh-7974+is%3Amerged&type=pullrequests" target="_blank">
+    <img src="https://img.shields.io/badge/More-View_All_Merged_PRs_%E2%86%92-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="More PRs" />
+  </a>
+</p>
 
 # 📊 GitHub Stats
 
