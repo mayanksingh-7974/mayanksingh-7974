@@ -1,0 +1,64 @@
+name: Auto-Update Merged PRs
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs automatically every 6 hours
+  workflow_dispatch:      # Lets you run it manually anytime from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-prs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch latest merged PRs and update README
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: mayanksingh-7974
+        run: |
+          node -e '
+          const fs = require("fs");
+          async function run() {
+            const user = process.env.GH_USER;
+            const url = `https://api.github.com/search/issues?q=is:pr+author:${user}+is:merged&sort=updated&order=desc&per_page=5`;
+            const res = await fetch(url, {
+              headers: {
+                "Authorization": `Bearer ${process.env.GH_TOKEN}`,
+                "Accept": "application/vnd.github+json",
+                "User-Agent": "Profile-Readme-PR-Updater"
+              }
+            });
+            const data = await res.json();
+            const items = data.items || [];
+            let table = "| Repository | Pull Request | Status |\n| :--- | :--- | :--- |\n";
+            if (items.length === 0) {
+              table += "| *No merged PRs yet* | - | - |\n";
+            } else {
+              for (const pr of items) {
+                const repoFullName = pr.repository_url.replace("https://api.github.com/repos/", "");
+                const repoUrl = `https://github.com/${repoFullName}`;
+                const cleanTitle = pr.title.replace(/\|/g, "\\|");
+                table += `| [**${repoFullName}**](${repoUrl}) | [${cleanTitle} (#${pr.number})](${pr.html_url}) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |\n`;
+              }
+            }
+            const readme = fs.readFileSync("README.md", "utf8");
+            const updated = readme.replace(
+              /<!-- PRS:START -->[\s\S]*?<!-- PRS:END -->/,
+              `<!-- PRS:START -->\n${table}<!-- PRS:END -->`
+            );
+            fs.writeFileSync("README.md", updated);
+          }
+          run().catch(err => { console.error(err); process.exit(1); });
+          '
+
+      - name: Commit and push updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update merged PRs in README"
+          git push
