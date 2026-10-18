@@ -111,8 +111,8 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 <!-- PRS:END -->
 
 <p align="left">
-  <a href="https://github.com/search?q=is%3Apr+author%3Amayanksingh-7974+is%3Amerged&type=pullrequests" target="_blank">
-    <img src="https://img.shields.io/badge/More-View_All_Merged_PRs_%E2%86%92-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="More PRs" />
+  <a href="https://github.com/search?q=is%3Apr+author%3Amayanksingh-7974&type=pullrequests" target="_blank">
+    <img src="https://img.shields.io/github/issues-search?query=is%3Apr%20author%3Amayanksingh-7974&label=All%20PR&style=for-the-badge&logo=github&logoColor=white&color=2ea44f" alt="All PR" />
   </a>
 </p>
 
