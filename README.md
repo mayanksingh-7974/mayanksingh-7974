@@ -96,6 +96,19 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 </tr>
 </table>
 
+# 🔀 Pull Requests & Open Source
+
+<p align="left">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Amayanksingh-7974+is%3Amerged" target="_blank">
+    <img src="https://img.shields.io/badge/Merged_PRs-10+_Merged-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Merged PRs" />
+  </a>
+</p>
+
+| Repository | Pull Request | Status |
+| :--- | :--- | :--- |
+| **owner/repo-name-1** | [Fix: Resolved authentication bug (#12)](https://github.com/owner/repo-name-1/pull/12) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| **owner/repo-name-2** | [Feat: Added responsive navbar (#45)](https://github.com/owner/repo-name-2/pull/45) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+
 # 📊 GitHub Stats
 
 <p align="center">
