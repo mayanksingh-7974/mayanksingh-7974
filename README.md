@@ -107,7 +107,11 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 <!-- PRS:START -->
 | Repository | Pull Request | Status |
 | :--- | :--- | :--- |
-| [**foss42/apidash**](https://github.com/foss42/apidash) | [View Merged PRs by mayanksingh-7974](https://github.com/search?q=is%3Apr+author%3Amayanksingh-7974+is%3Amerged&type=pullrequests) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | [content: add new japanese idiom (#32133)](https://github.com/lingdojo/kana-dojo/pull/32133) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| [**Ryan-Millard/Img2Num**](https://github.com/Ryan-Millard/Img2Num) | [chore(deps): remove stray dependencies from the root and dev-scripts packages (#759)](https://github.com/Ryan-Millard/Img2Num/pull/759) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| [**Ryan-Millard/Img2Num**](https://github.com/Ryan-Millard/Img2Num) | [fix(scripts): handle optional _meta.ignore in validate-scripts (#774)](https://github.com/Ryan-Millard/Img2Num/pull/774) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| [**Utkarsh-rwt/PeerToPeerPlagrismDetector**](https://github.com/Utkarsh-rwt/PeerToPeerPlagrismDetector) | [Feature/Change favicon (#10)](https://github.com/Utkarsh-rwt/PeerToPeerPlagrismDetector/pull/10) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
+| [**mayanksingh-7974/localrepo**](https://github.com/mayanksingh-7974/localrepo) | [added new line (#1)](https://github.com/mayanksingh-7974/localrepo/pull/1) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 <!-- PRS:END -->
 
 <p align="left">
