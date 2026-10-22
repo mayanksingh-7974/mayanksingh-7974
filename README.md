@@ -107,11 +107,11 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 <!-- PRS:START -->
 | Repository | Pull Request | Status |
 | :--- | :--- | :--- |
+| [**openSUSE/docbuild**](https://github.com/openSUSE/docbuild) | [infra: improve static typing stability and add typing CI workflow (#642)](https://github.com/openSUSE/docbuild/pull/642) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | [**mayanksingh-7974/localrepo**](https://github.com/mayanksingh-7974/localrepo) | [added new line (#1)](https://github.com/mayanksingh-7974/localrepo/pull/1) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | [**Utkarsh-rwt/PeerToPeerPlagrismDetector**](https://github.com/Utkarsh-rwt/PeerToPeerPlagrismDetector) | [Feature/Change favicon (#10)](https://github.com/Utkarsh-rwt/PeerToPeerPlagrismDetector/pull/10) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | [**Ryan-Millard/Img2Num**](https://github.com/Ryan-Millard/Img2Num) | [docs: fix swapped C and JavaScript rows in API bindings tables (#762)](https://github.com/Ryan-Millard/Img2Num/pull/762) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | [**openSUSE/docbuild**](https://github.com/openSUSE/docbuild) | [refactor: refactor `docbuild build` to `docbuild build run` (#643)](https://github.com/openSUSE/docbuild/pull/643) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
-| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | [content: add new japanese idiom (#32133)](https://github.com/lingdojo/kana-dojo/pull/32133) | ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 <!-- PRS:END -->
 
 <p align="left">
