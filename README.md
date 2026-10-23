@@ -133,7 +133,7 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy-self-psi.vercel.app/?username=mayanksingh-7974&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4&column=4&title=-Reviews" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-self-psi.vercel.app/?username=mayanksingh-7974&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4&column=4&rank=C,B,A,AA,AAA,S,SS,SSS" alt="GitHub Trophies" />
 </p>
 
 ---
