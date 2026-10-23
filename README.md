@@ -137,17 +137,6 @@ Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web
 </p>
 
 ---
----
-## 🌍 Profile Views & Visitor Locations
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayanksingh-7974&label=Profile%20Views&color=8957e5&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=mayanksingh-7974&displayMode=topCountries&columns=2&maxflags=10&showlabels=true&theme=github_dark" alt="Top Visitor Countries" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=mayanksingh-7974&displayMode=flagMap&mapSize=medium&theme=github_dark" alt="Visitor World Map" height="180" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
