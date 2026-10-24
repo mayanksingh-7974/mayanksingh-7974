@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web Developer | Problem Solver<br><br>Passionate about building web applications, learning new technologies, and continuously improving my coding skills.<br><br>🔭 Building modern web applications and sharpening my problem-solving skills<br><br>🤝 Open to collaborating on exciting Web Development and Open Source projects<br><br>🆘 Exploring Backend Development and scalable application architecture<br><br>🌱 Currently learning React.js, Node.js, and Full-Stack Development<br><br>💬 Skills: Java, C/C++, DSA, Git, and Web Development<br><br>⚡ Fun fact: I love solving coding challenges and creating projects from scratch
+Hi 👋, I'm Mayank Singh<br><br>💻 Computer Science Engineering Student | Web Developer | Problem Solver | Open-Source Contributor<br><br>- 🏆 Secured **7th rank (Top 10)** in Hacktoberfest 2026 @ IIIT Una.<br><br>🔭 Building modern web applications and sharpening my problem-solving skills<br><br>🤝 Open to collaborating on exciting Web Development and Open Source projects<br><br>🆘 - 🚀 Exploring backend development, system design, scalable application architecture, and cloud technologies
+<br><br>💬 **Skills**: Java, C/C++, DSA, Git, and Web Development<br><br>⚡ **Fun Fact:** I enjoy exploring unfamiliar codebases, tracking down bugs, and turning challenging problems into practical solutions.
 
 
 ## 🌐 Socials:
